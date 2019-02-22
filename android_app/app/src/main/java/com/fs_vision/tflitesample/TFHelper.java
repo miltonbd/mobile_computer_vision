@@ -1,4 +1,4 @@
-package com.fs_vision.tflitesample1;
+package com.fs_vision.tflitesample;
 
 import android.app.Activity;
 import android.content.res.AssetFileDescriptor;
@@ -12,7 +12,6 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
-import java.util.List;
 
 public class TFHelper {
     private static final TFHelper ourInstance = new TFHelper();

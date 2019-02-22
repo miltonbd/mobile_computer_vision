@@ -1,4 +1,4 @@
-package com.fs_vision.tflitesample1;
+package com.fs_vision.tflitesample;
 
 import org.junit.Test;
 

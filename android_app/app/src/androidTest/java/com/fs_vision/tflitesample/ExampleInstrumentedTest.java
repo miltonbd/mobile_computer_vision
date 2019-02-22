@@ -1,4 +1,4 @@
-package com.fs_vision.tflitesample1;
+package com.fs_vision.tflitesample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
